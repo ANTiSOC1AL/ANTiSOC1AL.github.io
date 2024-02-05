@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>建站笔记</title>
+    <link href="/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/"/>
+    <url>/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-下载Hexo"><a href="#1-下载Hexo" class="headerlink" title="1. 下载Hexo"></a>1. 下载Hexo</h2><p>首先下载node.js并配置完毕</p><p>进入cmd命令行，执行如下命令：<br>  <figure class="highlight avrasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs avrasm">npm install -g hexo-<span class="hljs-keyword">cli</span><br></code></pre></td></tr></table></figure><br>  <figure class="highlight csharp"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs csharp">hexo <span class="hljs-keyword">init</span><br></code></pre></td></tr></table></figure></p><p>执行如下命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs node.js">hexo clean<br>hexo generate<br>hexo s<br></code></pre></td></tr></table></figure><p>此时打开<code>localhost:4000</code>，即可在本地预览博客</p><h2 id="2-购买域名"><a href="#2-购买域名" class="headerlink" title="2. 购买域名"></a>2. 购买域名</h2><p>登录注册NameSilo，七元购买了seu-ning.top，使用期限为一年</p><h2 id="3-GitHub-Pages设置"><a href="#3-GitHub-Pages设置" class="headerlink" title="3. GitHub Pages设置"></a>3. GitHub Pages设置</h2><p>登录Github，创建名为<code>Github Username.github.io</code>的代码仓库，记得勾选”Add README.md”</p><p>打开仓库的<code>Settings</code>选项卡，在左侧的<code>Code and automation</code>子选项卡中找到<code>Pages</code>，按图填入购买的域名</p><p><img src="/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/custom-domain.png" alt="custom-domain"></p><h2 id="4-CloudFlare设置"><a href="#4-CloudFlare设置" class="headerlink" title="4. CloudFlare设置"></a>4. CloudFlare设置</h2><p>注册CloudFlare账号</p><p>在DNS设置中按图设置若干CNAME规则和A规则<br><img src="/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/rules.png" alt="rules"><br>并在namesilo后台将NameServer更换成CloudFlare提供的NameServer</p><p><b><span style="color: red">重要！：在<code>SSL/TLS</code>选项卡中选择<code>Full (Strict)</code>选项，否则可能导致网站无法访问。</span></b><br><img src="/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/ssl.png" alt="ssl"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>技术笔记</tag>
+      
+      <tag>杂记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
