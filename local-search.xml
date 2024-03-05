@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>VSCode找不到jupyter内核</title>
+    <link href="/2024/03/05/VSCode%E6%89%BE%E4%B8%8D%E5%88%B0jupyter%E5%86%85%E6%A0%B8/"/>
+    <url>/2024/03/05/VSCode%E6%89%BE%E4%B8%8D%E5%88%B0jupyter%E5%86%85%E6%A0%B8/</url>
+    
+    <content type="html"><![CDATA[<h1 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h1><p>在VSCode中，出现找不到Jupyter Notebook内核的情况。</p><h1 id="问题解决"><a href="#问题解决" class="headerlink" title="问题解决"></a>问题解决</h1><p>更新VSCode即可。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>VSCode, Jupyter Notebook</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>建站笔记</title>
     <link href="/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/"/>
     <url>/2024/02/05/%E5%BB%BA%E7%AB%99%E7%AC%94%E8%AE%B0/</url>
