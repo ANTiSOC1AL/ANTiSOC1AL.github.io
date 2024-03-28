@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>notebook等插件无法加载的情况</title>
+    <link href="/2024/03/28/notebook%E7%AD%89%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD%E7%9A%84%E6%83%85%E5%86%B5/"/>
+    <url>/2024/03/28/notebook%E7%AD%89%E6%8F%92%E4%BB%B6%E6%97%A0%E6%B3%95%E5%8A%A0%E8%BD%BD%E7%9A%84%E6%83%85%E5%86%B5/</url>
+    
+    <content type="html"><![CDATA[<h1 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h1><p>在VScode连接远程的linux服务器进行开发的时候，无法加载pylance插件，以及.ipynb文件无法打开</p><h1 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h1><p>将本地的chinese汉化插件卸载后重启vscode</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>外接显示器常见问题及解决方式</title>
     <link href="/2024/03/18/%E5%A4%96%E6%8E%A5%E6%98%BE%E7%A4%BA%E5%99%A8%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F/"/>
     <url>/2024/03/18/%E5%A4%96%E6%8E%A5%E6%98%BE%E7%A4%BA%E5%99%A8%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F/</url>
